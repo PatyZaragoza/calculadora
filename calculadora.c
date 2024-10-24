@@ -1,3 +1,5 @@
+// Patricia Zaragoza Palma 
+
 #include <stdio.h>
 
 // Funciones para las operaciones
