@@ -1,3 +1,6 @@
+# Autor: Patrcicia Zaragoza Palma
+# Ingeniera en sistemas computacionales
+
 def sumar(a, b):
     return a + b
 
