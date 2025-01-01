@@ -1,4 +1,4 @@
-# Autor: Patrcicia Zaragoza Palma
+# Autor: Patricia Zaragoza Palma
 # Ingeniera en sistemas computacionales
 
 def sumar(a, b):
