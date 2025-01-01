@@ -1,4 +1,6 @@
 // Patricia Zaragoza Palma 
+// Ingenieria en sistemas computacionales 
+
 
 #include <stdio.h>
 
